@@ -1,6 +1,6 @@
 # Fintech-Blockchain - Pychain
 
-[image](Images/blockchain_image.jpg)
+![image](Images/blockchain_image.jpg)
 
 ## Overiew 
 ## Summary
